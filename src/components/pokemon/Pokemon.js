@@ -3,7 +3,6 @@ import axios from "axios";
 import './Pokemon.css';
 
 
-
 function Pokemon({ endpoint }) {
   const [ pokemonData, setPokemonData ] = useState({})
 
