@@ -48,4 +48,5 @@ function Pokemon({ endpoint }) {
   )
 }
 
+
 export default Pokemon;
